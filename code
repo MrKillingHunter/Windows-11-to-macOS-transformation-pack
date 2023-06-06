@@ -1,0 +1,7 @@
+echo "# Windows-11-to-macOS-transformation-pack" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack.git
+git push -u origin main
