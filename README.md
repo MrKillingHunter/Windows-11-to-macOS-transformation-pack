@@ -37,7 +37,10 @@ How To Use This Pack: (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE 
  29. Now Head To The Dock,Finderr And Launchpad Folder And Move The 'MyDock' Folder To- you know already but yea
  30. Then, Go Into The MyDock Folder, Now In C: Drive (U May Move It To macOS Folder) And Run the 'MyDock.exe' File
  31. And Then the macOS Dock And Finderr Should Run, And boy Is It Scary Believable.
- 32. Next Configure It To The Images Below. (In advanced, At The Bottom, Click 'Backup Dock Icon File' And Recover With The Backup'![Screenshot 2023-06-07 214738](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/87b1ec9b-ddcd-4b9b-aefb-1ef63da6f5cc)
+ 32. Next Configure It To The Images Below. (In advanced, At The Bottom, Click 'Backup Dock Icon File' And Recover With The Backup'
+ ![Screenshot 2023-06-07 214738](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/87b1ec9b-ddcd-4b9b-aefb-1ef63da6f5cc)
+ ![Screenshot 2023-06-07 214805](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/58ca3e07-d771-4d6b-be5e-894ecaf92df9)
+ ![Screenshot 2023-06-07 214942](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/0e13c2b7-c33a-4487-98b8-6fe9f4b3ee23)
 
  33. Now Your macOS Theme Is Almost Completed On Your Desktop!
  34. Head To The Wallpaper Folder And Apply The Wallpaper Of Your Choice.
@@ -48,6 +51,4 @@ How To Use This Pack: (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE 
  38. Now, Go To the Big Sur Widgets.rmskin file and Immedietely Hit Install.
  AND THERE YOU GO YOUR MAC THEME ON YOUR DESKTOP IS COMPLETED!
  
- ![Screenshot 2023-06-07 214805](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/58ca3e07-d771-4d6b-be5e-894ecaf92df9)
-![Screenshot 2023-06-07 214942](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/0e13c2b7-c33a-4487-98b8-6fe9f4b3ee23)
-![Screenshot 2023-06-07 214738](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/7345139d-7339-4007-b5fb-f3b3e09a4e00)
+
