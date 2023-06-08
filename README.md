@@ -1,6 +1,6 @@
 # Windows-11-to-macOS-transformation-pack
 Transformation Pack to make your Windows 11 PC look like macOS Big Sur And Ventura(WIP, NA). Project Still In Beta, Feel Free to leave feedback. Files Provided By niivu, VINSTAR, and other developers. How To Is In The README As well as the owners of files used
-How To Use This Pack: (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE AS NEWER RELEASES COME OUT)
+How To Use This Pack (Big Sur Only, Ventura Is In The File): (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE AS NEWER RELEASES COME OUT)
  1. Create A Restore Point And Hide Desktop Icons
  2. Download And Extract The Folder With WinRAR Or 7-Zip. Use The 'Extract Here' Option.
  3. Create A Folder In C: Drive Called 'macOS'
@@ -25,7 +25,7 @@ How To Use This Pack: (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE 
  19. Change The Configuration As Followed Or Follow The Attached Image At The End
      - In Taskbar, Change Location To Top And Change Icon Size To Small And Enable Dynamic Transparency
      - In Explorer, Change 'Win11 Command Bar' To 'Win7 Command Bar' And Disable 'Mica Effect On Top' As Well As 'Classic Search Box' But Keep 'New Icons'
- 20. After Configuration, Close The App And Head BAck To The Big Sur Folder. Go Into '4. Leftsider'
+ 20. After Configuration, Close The App And Head Back To The Big Sur Folder. Go Into '4. Leftsider'
  21. Simply Move The Leftsider Folder To The 'Move Here' Shortcut.
  22. On Your Keyboard, Press 'Win + R' And Type 'shell:startup'
  23. After That, Create A Shortcut For The Leftsider.exe File In Leftsider Folder(Now In macOS Folder) And Move The Shortcut To The Explorer Window That Opened With The Command Of shell:startup
@@ -34,8 +34,8 @@ How To Use This Pack: (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE 
  26. After That, Search In The Search Bar Menu 'pointer' And Open the Best Match.
  27. Then Naviagte To the 'Pointers' Tab And Go To 'Select Scheme'. There Select The Cursor You Installed (For Big Sur Its 'Big Sur', For Ventura Its'macOS Retina-Pointers')
  28. Now Head To '6. Icons' And Move 'Big sur dock icons' To The 'Move Here' Shortcut.
- 29. Now Head To The Dock,Finderr And Launchpad Folder And Move The 'MyDock' Folder To- you know already but yea
- 30. Then, Go Into The MyDock Folder, Now In C: Drive (U May Move It To macOS Folder) And Run the 'MyDock.exe' File
+ 29. Now Head To The Dock,Finder And Launchpad Folder And Move The 'MyDock' Folder To- you know already but yea
+ 30. Then, Go Into The MyDock Folder, Now In macOS Folder In C: Drive And Run the 'MyDock.exe' File
  31. And Then the macOS Dock And Finderr Should Run, And boy Is It Scary Believable.
  32. Next Configure It To The Images Below. (In advanced, At The Bottom, Click 'Backup Dock Icon File' And Recover With The Backup'
  ![Screenshot 2023-06-07 214738](https://github.com/MrKillingHunter/Windows-11-to-macOS-transformation-pack/assets/129658204/87b1ec9b-ddcd-4b9b-aefb-1ef63da6f5cc)
@@ -44,11 +44,9 @@ How To Use This Pack: (RIGHT NOW, VENTURA ISNT OUT YET AND THE GUIDE MAY CHANGE 
 
  33. Now Your macOS Theme Is Almost Completed On Your Desktop!
  34. Head To The Wallpaper Folder And Apply The Wallpaper Of Your Choice.
- 35. For The Final Segment, Go To The Link Below And Save It To The Widgets Folder In Big Sur Folder.
-    - https://www.deviantart.com/vinithkumar/art/Bluesh-880801653
- 36. Now In the Widgets Folder, Install Rainmeter If You Haven't Already
- 37. Open The bluesh.rmskin file and uncheck the 'Bluesh' under 'Layouts' before you hit Install
- 38. Now, Go To the Big Sur Widgets.rmskin file and Immedietely Hit Install.
+ 35. Now In the Widgets Folder, Install Rainmeter If You Haven't Already
+ 36. Open The bluesh.rmskin file and Install The Skin.
+ 37. Now, Go To the Big Sur Widgets.rmskin file and Immedietely Hit Install.
  AND THERE YOU GO YOUR MAC THEME ON YOUR DESKTOP IS COMPLETED!
  
 
